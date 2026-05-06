@@ -1,0 +1,1407 @@
+2026-05-06 [08:33:10] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:33:10] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:33:10] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:33:10] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.7
+2026-05-06 [08:33:10] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2026-05-06 [08:33:10] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2026-05-06 [08:33:10] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:33:10] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:33:10] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:33:10] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:33:10] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:33:10] [Server thread/NOTICE]: Level "world" not found
+2026-05-06 [08:33:10] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:33:10] [Server thread/NOTICE]: Spawn terrain for level "world" is being generated in the background
+2026-05-06 [08:33:10] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:33:10] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:33:10] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:33:10] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:33:10] [Server thread/INFO]: Done (0.348s)! For help, type "help" or "?"
+2026-05-06 [08:33:30] [Server thread/INFO]: leni[/192.168.0.100:41969] logged out due to You need to authenticate to Xbox Live.
+2026-05-06 [08:33:57] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:33:57] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:33:57] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:33:57] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.7
+2026-05-06 [08:33:57] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2026-05-06 [08:33:57] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2026-05-06 [08:33:57] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:33:57] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:33:57] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:33:57] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:33:57] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:33:57] [RakLibServer thread/CRITICAL]: InvalidStateException: "Failed to bind to 0.0.0.0 19132: Address already in use" (EXCEPTION) in "vendor/pocketmine/raklib/server/UDPServerSocket" at line 37
+2026-05-06 [08:33:57] [RakLibServer thread/DEBUG]: #0 vendor/pocketmine/raklib/server/RakLibServer(219): raklib\server\UDPServerSocket->__construct(raklib\utils\InternetAddress object)
+2026-05-06 [08:33:57] [RakLibServer thread/DEBUG]: #1 (): raklib\server\RakLibServer->run()
+2026-05-06 [08:33:57] [Server thread/EMERGENCY]: RakLib crashed!
+2026-05-06 [08:33:57] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:33:57] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:33:57] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:33:57] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:33:57] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:33:57] [Server thread/INFO]: Done (0.396s)! For help, type "help" or "?"
+2026-05-06 [08:33:57] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\mcpe\RakLibInterface due to RakLib Thread crashed
+2026-05-06 [08:34:02] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [08:34:02] [Server thread/INFO]: Stopping other threads
+2026-05-06 [08:34:04] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2026-05-06 [08:34:04] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [08:34:04] [Server thread/INFO]: Stopping other threads
+2026-05-06 [08:34:22] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:34:22] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:34:22] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:34:22] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.7
+2026-05-06 [08:34:22] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:34:22] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:34:22] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:34:22] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:34:22] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:34:22] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:34:22] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:34:22] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:34:22] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:34:22] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:34:22] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:34:22] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:34:22] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:34:22] [Server thread/INFO]: Done (0.268s)! For help, type "help" or "?"
+2026-05-06 [08:35:17] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:35:17] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:35:17] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:35:17] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.7
+2026-05-06 [08:35:17] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:35:17] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:35:17] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:35:17] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:35:17] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:35:17] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:35:17] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:35:17] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:35:17] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:35:17] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:35:17] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:35:17] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:35:17] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:35:17] [Server thread/INFO]: Done (0.261s)! For help, type "help" or "?"
+2026-05-06 [08:35:53] [Server thread/NOTICE]: Player data not found for "leni", creating new profile
+2026-05-06 [08:35:55] [Server thread/INFO]: leni[/192.168.0.100:41969] logged in with entity id 1 at (world, 256, 70, 256)
+2026-05-06 [08:35:57] [Server thread/INFO]: leni joined the game
+2026-05-06 [08:36:55] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:36:55] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:36:55] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:36:55] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.7
+2026-05-06 [08:36:55] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:36:55] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:36:55] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:36:55] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:36:55] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:36:55] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:36:55] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:36:55] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:36:55] [RakLibServer thread/CRITICAL]: InvalidStateException: "Failed to bind to 0.0.0.0 19132: Address already in use" (EXCEPTION) in "vendor/pocketmine/raklib/server/UDPServerSocket" at line 37
+2026-05-06 [08:36:55] [RakLibServer thread/DEBUG]: #0 vendor/pocketmine/raklib/server/RakLibServer(219): raklib\server\UDPServerSocket->__construct(raklib\utils\InternetAddress object)
+2026-05-06 [08:36:55] [RakLibServer thread/DEBUG]: #1 (): raklib\server\RakLibServer->run()
+2026-05-06 [08:36:55] [Server thread/EMERGENCY]: RakLib crashed!
+2026-05-06 [08:36:55] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:36:55] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:36:55] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:36:55] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:36:55] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:36:55] [Server thread/INFO]: Done (0.348s)! For help, type "help" or "?"
+2026-05-06 [08:36:55] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\mcpe\RakLibInterface due to RakLib Thread crashed
+2026-05-06 [08:37:11] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:37:11] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:37:11] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:37:11] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.7
+2026-05-06 [08:37:11] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:37:11] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:37:11] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:37:11] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:37:11] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:37:11] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:37:11] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:37:11] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:37:11] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:37:11] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:37:11] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:37:11] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:37:11] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:37:11] [Server thread/INFO]: Done (0.236s)! For help, type "help" or "?"
+2026-05-06 [08:37:20] [Server thread/INFO]: Plugins (0):
+2026-05-06 [08:37:23] [Server thread/INFO]: leni[/192.168.0.100:41969] logged in with entity id 1 at (world, 256, 70, 256)
+2026-05-06 [08:37:25] [Server thread/INFO]: leni joined the game
+2026-05-06 [08:38:05] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:38:05] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:38:05] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:38:05] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.7
+2026-05-06 [08:38:05] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:38:05] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:38:05] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:38:05] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:38:05] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:38:05] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:38:05] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:38:05] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:38:06] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:38:06] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:38:06] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:38:06] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:38:06] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:38:06] [Server thread/INFO]: Done (0.253s)! For help, type "help" or "?"
+2026-05-06 [08:38:48] [Server thread/INFO]: leni[/192.168.0.100:41969] logged in with entity id 1 at (world, 256, 70, 256)
+2026-05-06 [08:38:50] [Server thread/INFO]: leni joined the game
+2026-05-06 [08:38:59] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:38:59] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:38:59] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:38:59] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.7
+2026-05-06 [08:39:00] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:39:00] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:39:00] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:39:00] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:39:00] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:39:00] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:39:00] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:39:00] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:39:00] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:39:00] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:39:00] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:39:00] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:39:00] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:39:00] [Server thread/INFO]: Done (0.241s)! For help, type "help" or "?"
+2026-05-06 [08:39:37] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:39:37] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:39:37] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:39:37] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.7
+2026-05-06 [08:39:37] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:39:37] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:39:37] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:39:37] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:39:37] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:39:37] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:39:37] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:39:37] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:39:37] [Server thread/ERROR]: Could not load plugin 'SimpleLogin': Incompatible API version (plugin requires one of: 3.0.0)
+2026-05-06 [08:39:37] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:39:37] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:39:37] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:39:37] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:39:37] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:39:37] [Server thread/INFO]: Done (0.25s)! For help, type "help" or "?"
+2026-05-06 [08:40:02] [Server thread/INFO]: leni[/192.168.0.100:41969] logged in with entity id 1 at (world, 256, 70, 256)
+2026-05-06 [08:40:04] [Server thread/INFO]: leni joined the game
+2026-05-06 [08:40:09] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:40:09] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:40:09] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:40:09] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.7
+2026-05-06 [08:40:09] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:40:09] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:40:09] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:40:09] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:40:09] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:40:09] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:40:09] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:40:09] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:40:09] [Server thread/INFO]: Loading SimpleLogin v1.0.0
+2026-05-06 [08:40:09] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:40:09] [Server thread/INFO]: Enabling SimpleLogin v1.0.0
+2026-05-06 [08:40:09] [Server thread/INFO]: [SimpleLogin] SimpleLogin habilitado!
+2026-05-06 [08:40:09] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:40:09] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:40:09] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:40:09] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:40:09] [Server thread/INFO]: Done (0.241s)! For help, type "help" or "?"
+2026-05-06 [08:40:24] [Server thread/INFO]: leni[/192.168.0.100:41969] logged in with entity id 1 at (world, 256, 70, 256)
+2026-05-06 [08:40:26] [Server thread/CRITICAL]: Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'SimpleLogin v1.0.0': Call to undefined method pocketmine\Player::sendForm() on SimpleLogin\Main
+2026-05-06 [08:40:26] [Server thread/CRITICAL]: Error: "Call to undefined method pocketmine\Player::sendForm()" (EXCEPTION) in "SimpleLogin" at line 106
+2026-05-06 [08:40:26] [Server thread/DEBUG]: #0 SimpleLogin(44): SimpleLogin\Main->showRegisterForm(pocketmine\Player object)
+2026-05-06 [08:40:26] [Server thread/DEBUG]: #1 src/pocketmine/plugin/MethodEventExecutor(38): SimpleLogin\Main->onJoin(pocketmine\event\player\PlayerJoinEvent object)
+2026-05-06 [08:40:26] [Server thread/DEBUG]: #2 src/pocketmine/plugin/RegisteredListener(98): pocketmine\plugin\MethodEventExecutor->execute(SimpleLogin\Main object, pocketmine\event\player\PlayerJoinEvent object)
+2026-05-06 [08:40:26] [Server thread/DEBUG]: #3 src/pocketmine/plugin/PluginManager(683): pocketmine\plugin\RegisteredListener->callEvent(pocketmine\event\player\PlayerJoinEvent object)
+2026-05-06 [08:40:26] [Server thread/DEBUG]: #4 src/pocketmine/Player(969): pocketmine\plugin\PluginManager->callEvent(pocketmine\event\player\PlayerJoinEvent object)
+2026-05-06 [08:40:26] [Server thread/DEBUG]: #5 src/pocketmine/Player(917): pocketmine\Player->doFirstSpawn()
+2026-05-06 [08:40:26] [Server thread/DEBUG]: #6 src/pocketmine/level/Level(2550): pocketmine\Player->sendChunk(integer 13, integer 17, pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:40:26] [Server thread/DEBUG]: #7 src/pocketmine/level/Level(2595): pocketmine\level\Level->sendChunkFromCache(integer 13, integer 17)
+2026-05-06 [08:40:26] [Server thread/DEBUG]: #8 src/pocketmine/level/format/io/ChunkRequestTask(88): pocketmine\level\Level->chunkRequestCallback(integer 13, integer 17, pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:40:26] [Server thread/DEBUG]: #9 src/pocketmine/scheduler/AsyncPool(162): pocketmine\level\format\io\ChunkRequestTask->onCompletion(pocketmine\Server object)
+2026-05-06 [08:40:26] [Server thread/DEBUG]: #10 src/pocketmine/scheduler/ServerScheduler(342): pocketmine\scheduler\AsyncPool->collectTasks()
+2026-05-06 [08:40:26] [Server thread/DEBUG]: #11 src/pocketmine/Server(2540): pocketmine\scheduler\ServerScheduler->mainThreadHeartbeat(integer 338)
+2026-05-06 [08:40:26] [Server thread/DEBUG]: #12 src/pocketmine/Server(2283): pocketmine\Server->tick()
+2026-05-06 [08:40:26] [Server thread/DEBUG]: #13 src/pocketmine/Server(2158): pocketmine\Server->tickProcessor()
+2026-05-06 [08:40:26] [Server thread/DEBUG]: #14 src/pocketmine/Server(1744): pocketmine\Server->start()
+2026-05-06 [08:40:26] [Server thread/DEBUG]: #15 src/pocketmine/PocketMine(556): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/inseto/projetos/sercidor.1.2.8/, string /home/inseto/projetos/sercidor.1.2.8/plugins/)
+2026-05-06 [08:40:26] [Server thread/DEBUG]: #16 /home/inseto/projetos/sercidor.1.2.8/PocketMine-MP.phar(1): require(string phar:///home/inseto/projetos/sercidor.1.2.8/PocketMine-MP.phar/src/pocketmine/PocketMine.php)
+2026-05-06 [08:40:26] [Server thread/INFO]: leni joined the game
+2026-05-06 [08:41:04] [Server thread/INFO]: Disabling SimpleLogin v1.0.0
+2026-05-06 [08:41:04] [Server thread/INFO]: leni left the game
+2026-05-06 [08:41:04] [Server thread/INFO]: leni[/192.168.0.100:41969] logged out due to Server closed
+2026-05-06 [08:41:04] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [08:41:05] [Server thread/INFO]: Stopping other threads
+2026-05-06 [08:41:09] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:41:09] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:41:09] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:41:09] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.7
+2026-05-06 [08:41:09] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:41:09] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:41:09] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:41:09] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:41:09] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:41:09] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:41:09] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:41:09] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:41:09] [Server thread/INFO]: Loading SimpleLogin v1.1.0
+2026-05-06 [08:41:09] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:41:09] [Server thread/INFO]: Enabling SimpleLogin v1.1.0
+2026-05-06 [08:41:09] [Server thread/INFO]: [SimpleLogin] SimpleLogin habilitado!
+2026-05-06 [08:41:09] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:41:09] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:41:09] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:41:09] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:41:09] [Server thread/INFO]: Done (0.251s)! For help, type "help" or "?"
+2026-05-06 [08:42:30] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [08:42:30] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:42:30] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:42:30] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:42:30] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.7
+2026-05-06 [08:42:30] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:42:30] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:42:30] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:42:30] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:42:30] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:42:30] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:42:30] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:42:30] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:42:30] [Server thread/INFO]: Loading SimpleLogin v1.1.0
+2026-05-06 [08:42:30] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:42:30] [Server thread/INFO]: Enabling SimpleLogin v1.1.0
+2026-05-06 [08:42:30] [Server thread/INFO]: [SimpleLogin] SimpleLogin habilitado!
+2026-05-06 [08:42:30] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:42:30] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:42:30] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:42:30] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:42:30] [Server thread/INFO]: Done (0.288s)! For help, type "help" or "?"
+2026-05-06 [08:42:40] [Server thread/INFO]: leni[/192.168.0.100:41969] logged in with entity id 1 at (world, 256, 70, 256)
+2026-05-06 [08:42:42] [Server thread/INFO]: leni joined the game
+2026-05-06 [08:47:17] [Server thread/INFO]: Disabling SimpleLogin v1.1.0
+2026-05-06 [08:47:17] [Server thread/INFO]: leni left the game
+2026-05-06 [08:47:17] [Server thread/INFO]: leni[/192.168.0.100:41969] logged out due to Server closed
+2026-05-06 [08:47:17] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [08:47:17] [Server thread/INFO]: Stopping other threads
+2026-05-06 [08:47:21] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [08:47:21] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:47:21] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:47:21] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:47:21] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.7
+2026-05-06 [08:47:21] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:47:21] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:47:21] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:47:21] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:47:21] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:47:21] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:47:21] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:47:21] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:47:21] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [08:47:21] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:47:21] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [08:47:21] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [08:47:21] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:47:21] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:47:21] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:47:21] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:47:21] [Server thread/INFO]: Done (0.323s)! For help, type "help" or "?"
+2026-05-06 [08:47:27] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\mcpe\RakLibInterface due to syntax error, unexpected 'public' (T_PUBLIC)
+2026-05-06 [08:47:46] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [08:47:46] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:47:46] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:47:46] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:47:46] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.7
+2026-05-06 [08:47:46] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:47:46] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:47:46] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:47:46] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:47:46] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:47:46] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:47:46] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:47:46] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:47:46] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [08:47:46] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:47:46] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [08:47:46] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [08:47:46] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:47:46] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:47:46] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:47:46] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:47:46] [Server thread/INFO]: Done (0.558s)! For help, type "help" or "?"
+2026-05-06 [08:47:54] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\mcpe\RakLibInterface due to syntax error, unexpected 'public' (T_PUBLIC)
+2026-05-06 [08:48:54] [Server thread/INFO]: Disabling SimpleLogin v1.2.0
+2026-05-06 [08:48:54] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [08:48:54] [Server thread/INFO]: Stopping other threads
+2026-05-06 [08:48:57] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [08:48:57] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:48:57] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:48:57] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:48:57] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [08:48:57] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:48:57] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:48:57] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:48:57] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:48:57] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:48:57] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:48:58] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:48:58] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:48:58] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [08:48:58] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:48:58] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [08:48:58] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [08:48:58] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:48:58] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:48:58] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:48:58] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:48:58] [Server thread/INFO]: Done (0.289s)! For help, type "help" or "?"
+2026-05-06 [08:50:30] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\mcpe\RakLibInterface due to syntax error, unexpected 'public' (T_PUBLIC)
+2026-05-06 [08:50:38] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [08:50:38] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:50:38] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:50:38] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:50:38] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [08:50:38] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:50:38] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:50:38] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:50:38] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:50:38] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:50:38] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:50:38] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:50:38] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:50:38] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0)
+2026-05-06 [08:50:38] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [08:50:38] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:50:38] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [08:50:38] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [08:50:38] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:50:38] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:50:38] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:50:38] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:50:38] [Server thread/INFO]: Done (0.39s)! For help, type "help" or "?"
+2026-05-06 [08:50:43] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\mcpe\RakLibInterface due to syntax error, unexpected 'public' (T_PUBLIC)
+2026-05-06 [08:51:15] [Server thread/INFO]: Disabling SimpleLogin v1.2.0
+2026-05-06 [08:51:15] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [08:51:15] [Server thread/INFO]: Stopping other threads
+2026-05-06 [08:51:16] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [08:51:16] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:51:16] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:51:16] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:51:16] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [08:51:16] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:51:16] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:51:16] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:51:16] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:51:16] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:51:16] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:51:16] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:51:16] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:51:16] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [08:51:16] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [08:51:16] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:51:16] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [08:51:16] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [08:51:16] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:51:16] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:51:16] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:51:16] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:51:16] [Server thread/INFO]: Done (0.298s)! For help, type "help" or "?"
+2026-05-06 [08:51:19] [Server thread/INFO]: Disabling SimpleLogin v1.2.0
+2026-05-06 [08:51:19] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [08:51:19] [Server thread/INFO]: Stopping other threads
+2026-05-06 [08:52:52] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [08:52:52] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:52:52] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:52:52] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:52:52] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [08:52:52] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:52:52] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:52:52] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:52:52] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:52:52] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:52:52] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:52:52] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:52:52] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:52:52] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [08:52:52] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [08:52:52] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:52:52] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [08:52:52] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [08:52:52] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:52:52] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:52:52] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:52:52] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:52:52] [Server thread/INFO]: Done (0.435s)! For help, type "help" or "?"
+2026-05-06 [08:53:21] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\mcpe\RakLibInterface due to syntax error, unexpected 'public' (T_PUBLIC)
+2026-05-06 [08:53:27] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [08:53:27] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:53:27] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:53:27] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:53:27] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [08:53:27] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:53:27] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:53:27] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:53:27] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:53:27] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:53:27] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:53:27] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:53:28] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:53:28] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [08:53:28] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [08:53:28] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:53:28] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [08:53:28] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [08:53:28] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:53:28] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:53:28] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:53:28] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:53:28] [Server thread/INFO]: Done (0.313s)! For help, type "help" or "?"
+2026-05-06 [08:53:34] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\mcpe\RakLibInterface due to syntax error, unexpected 'public' (T_PUBLIC)
+2026-05-06 [08:55:20] [Server thread/INFO]: Disabling SimpleLogin v1.2.0
+2026-05-06 [08:55:20] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [08:55:20] [Server thread/INFO]: Stopping other threads
+2026-05-06 [08:55:20] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [08:55:20] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:55:20] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:55:20] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:55:20] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [08:55:20] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:55:20] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:55:20] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:55:20] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:55:20] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:55:20] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:55:21] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:55:21] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:55:21] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [08:55:21] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [08:55:21] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:55:21] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [08:55:21] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [08:55:21] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:55:21] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:55:21] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:55:21] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:55:21] [Server thread/INFO]: Done (0.281s)! For help, type "help" or "?"
+2026-05-06 [08:55:25] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\mcpe\RakLibInterface due to syntax error, unexpected 'public' (T_PUBLIC)
+2026-05-06 [08:55:29] [Server thread/INFO]: Disabling SimpleLogin v1.2.0
+2026-05-06 [08:55:29] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [08:55:29] [Server thread/INFO]: Stopping other threads
+2026-05-06 [08:55:48] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [08:55:48] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:55:48] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:55:48] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:55:48] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [08:55:48] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:55:48] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:55:48] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:55:48] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:55:48] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:55:48] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:55:48] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:55:48] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:55:48] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [08:55:48] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [08:55:48] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:55:48] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [08:55:48] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [08:55:48] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:55:48] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:55:48] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:55:48] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:55:48] [Server thread/INFO]: Done (0.257s)! For help, type "help" or "?"
+2026-05-06 [08:56:02] [Server thread/INFO]: leni[/192.168.0.100:41969] logged in with entity id 1 at (world, 256, 70, 256)
+2026-05-06 [08:56:03] [Server thread/CRITICAL]: Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'SimpleLogin v1.2.0': Call to undefined method SimpleLogin\Main::getScheduler() on SimpleLogin\Main
+2026-05-06 [08:56:03] [Server thread/CRITICAL]: Error: "Call to undefined method SimpleLogin\Main::getScheduler()" (EXCEPTION) in "SimpleLogin" at line 47
+2026-05-06 [08:56:03] [Server thread/DEBUG]: #0 src/pocketmine/plugin/MethodEventExecutor(38): SimpleLogin\Main->onJoin(pocketmine\event\player\PlayerJoinEvent object)
+2026-05-06 [08:56:03] [Server thread/DEBUG]: #1 src/pocketmine/plugin/RegisteredListener(98): pocketmine\plugin\MethodEventExecutor->execute(SimpleLogin\Main object, pocketmine\event\player\PlayerJoinEvent object)
+2026-05-06 [08:56:03] [Server thread/DEBUG]: #2 src/pocketmine/plugin/PluginManager(683): pocketmine\plugin\RegisteredListener->callEvent(pocketmine\event\player\PlayerJoinEvent object)
+2026-05-06 [08:56:03] [Server thread/DEBUG]: #3 src/pocketmine/Player(975): pocketmine\plugin\PluginManager->callEvent(pocketmine\event\player\PlayerJoinEvent object)
+2026-05-06 [08:56:03] [Server thread/DEBUG]: #4 src/pocketmine/Player(923): pocketmine\Player->doFirstSpawn()
+2026-05-06 [08:56:03] [Server thread/DEBUG]: #5 src/pocketmine/level/Level(2550): pocketmine\Player->sendChunk(integer 14, integer 19, pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:56:03] [Server thread/DEBUG]: #6 src/pocketmine/level/Level(2595): pocketmine\level\Level->sendChunkFromCache(integer 14, integer 19)
+2026-05-06 [08:56:03] [Server thread/DEBUG]: #7 src/pocketmine/level/format/io/ChunkRequestTask(88): pocketmine\level\Level->chunkRequestCallback(integer 14, integer 19, pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:56:03] [Server thread/DEBUG]: #8 src/pocketmine/scheduler/AsyncPool(162): pocketmine\level\format\io\ChunkRequestTask->onCompletion(pocketmine\Server object)
+2026-05-06 [08:56:03] [Server thread/DEBUG]: #9 src/pocketmine/scheduler/ServerScheduler(342): pocketmine\scheduler\AsyncPool->collectTasks()
+2026-05-06 [08:56:03] [Server thread/DEBUG]: #10 src/pocketmine/Server(2540): pocketmine\scheduler\ServerScheduler->mainThreadHeartbeat(integer 311)
+2026-05-06 [08:56:03] [Server thread/DEBUG]: #11 src/pocketmine/Server(2283): pocketmine\Server->tick()
+2026-05-06 [08:56:03] [Server thread/DEBUG]: #12 src/pocketmine/Server(2158): pocketmine\Server->tickProcessor()
+2026-05-06 [08:56:03] [Server thread/DEBUG]: #13 src/pocketmine/Server(1744): pocketmine\Server->start()
+2026-05-06 [08:56:03] [Server thread/DEBUG]: #14 src/pocketmine/PocketMine(556): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/inseto/projetos/sercidor.1.2.8/, string /home/inseto/projetos/sercidor.1.2.8/plugins/)
+2026-05-06 [08:56:03] [Server thread/INFO]: leni joined the game
+2026-05-06 [08:56:13] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [08:56:13] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:56:13] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:56:13] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:56:13] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [08:56:13] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:56:13] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:56:13] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:56:13] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:56:13] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:56:13] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:56:13] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:56:13] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:56:13] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [08:56:13] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [08:56:13] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:56:13] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [08:56:13] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [08:56:13] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:56:13] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:56:13] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:56:13] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:56:13] [Server thread/INFO]: Done (0.475s)! For help, type "help" or "?"
+2026-05-06 [08:56:23] [Server thread/INFO]: Disabling SimpleLogin v1.2.0
+2026-05-06 [08:56:23] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [08:56:23] [Server thread/INFO]: Stopping other threads
+2026-05-06 [08:56:28] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [08:56:28] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:56:28] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:56:28] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:56:28] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [08:56:28] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:56:28] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:56:28] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:56:28] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:56:28] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:56:28] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:56:28] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:56:28] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:56:28] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [08:56:28] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [08:56:28] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:56:28] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [08:56:28] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [08:56:28] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:56:28] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:56:28] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:56:28] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:56:28] [Server thread/INFO]: Done (0.33s)! For help, type "help" or "?"
+2026-05-06 [08:56:33] [Server thread/INFO]: leni[/192.168.0.100:41969] logged in with entity id 1 at (world, 256, 70, 256)
+2026-05-06 [08:56:34] [Server thread/CRITICAL]: Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'SimpleLogin v1.2.0': Call to undefined method SimpleLogin\Main::getScheduler() on SimpleLogin\Main
+2026-05-06 [08:56:34] [Server thread/CRITICAL]: Error: "Call to undefined method SimpleLogin\Main::getScheduler()" (EXCEPTION) in "SimpleLogin" at line 47
+2026-05-06 [08:56:34] [Server thread/DEBUG]: #0 src/pocketmine/plugin/MethodEventExecutor(38): SimpleLogin\Main->onJoin(pocketmine\event\player\PlayerJoinEvent object)
+2026-05-06 [08:56:34] [Server thread/DEBUG]: #1 src/pocketmine/plugin/RegisteredListener(98): pocketmine\plugin\MethodEventExecutor->execute(SimpleLogin\Main object, pocketmine\event\player\PlayerJoinEvent object)
+2026-05-06 [08:56:34] [Server thread/DEBUG]: #2 src/pocketmine/plugin/PluginManager(683): pocketmine\plugin\RegisteredListener->callEvent(pocketmine\event\player\PlayerJoinEvent object)
+2026-05-06 [08:56:34] [Server thread/DEBUG]: #3 src/pocketmine/Player(975): pocketmine\plugin\PluginManager->callEvent(pocketmine\event\player\PlayerJoinEvent object)
+2026-05-06 [08:56:34] [Server thread/DEBUG]: #4 src/pocketmine/Player(923): pocketmine\Player->doFirstSpawn()
+2026-05-06 [08:56:34] [Server thread/DEBUG]: #5 src/pocketmine/level/Level(2550): pocketmine\Player->sendChunk(integer 14, integer 19, pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:56:34] [Server thread/DEBUG]: #6 src/pocketmine/level/Level(2595): pocketmine\level\Level->sendChunkFromCache(integer 14, integer 19)
+2026-05-06 [08:56:34] [Server thread/DEBUG]: #7 src/pocketmine/level/format/io/ChunkRequestTask(88): pocketmine\level\Level->chunkRequestCallback(integer 14, integer 19, pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:56:34] [Server thread/DEBUG]: #8 src/pocketmine/scheduler/AsyncPool(162): pocketmine\level\format\io\ChunkRequestTask->onCompletion(pocketmine\Server object)
+2026-05-06 [08:56:34] [Server thread/DEBUG]: #9 src/pocketmine/scheduler/ServerScheduler(342): pocketmine\scheduler\AsyncPool->collectTasks()
+2026-05-06 [08:56:34] [Server thread/DEBUG]: #10 src/pocketmine/Server(2540): pocketmine\scheduler\ServerScheduler->mainThreadHeartbeat(integer 131)
+2026-05-06 [08:56:34] [Server thread/DEBUG]: #11 src/pocketmine/Server(2283): pocketmine\Server->tick()
+2026-05-06 [08:56:34] [Server thread/DEBUG]: #12 src/pocketmine/Server(2158): pocketmine\Server->tickProcessor()
+2026-05-06 [08:56:34] [Server thread/DEBUG]: #13 src/pocketmine/Server(1744): pocketmine\Server->start()
+2026-05-06 [08:56:34] [Server thread/DEBUG]: #14 src/pocketmine/PocketMine(556): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/inseto/projetos/sercidor.1.2.8/, string /home/inseto/projetos/sercidor.1.2.8/plugins/)
+2026-05-06 [08:56:34] [Server thread/INFO]: leni joined the game
+2026-05-06 [08:56:55] [Server thread/INFO]: [CONSOLE: Opped leni]
+2026-05-06 [08:57:00] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\Player::handleAnimate() must be an instance of pocketmine\AnimatePacket, instance of pocketmine\network\mcpe\protocol\AnimatePacket given, called in /home/inseto/projetos/sercidor.1.2.8/PocketMine-MP/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter.php on line 164" (EXCEPTION) in "src/pocketmine/Player" at line 2792
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #0 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(164): pocketmine\Player->handleAnimate(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #1 src/pocketmine/network/mcpe/protocol/AnimatePacket(63): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleAnimate(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #2 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(92): pocketmine\network\mcpe\protocol\AnimatePacket->handle(pocketmine\network\mcpe\PlayerNetworkSessionAdapter object)
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #3 src/pocketmine/network/mcpe/protocol/BatchPacket(115): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #4 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(92): pocketmine\network\mcpe\protocol\BatchPacket->handle(pocketmine\network\mcpe\PlayerNetworkSessionAdapter object)
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #5 src/pocketmine/Player(3026): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #6 src/pocketmine/network/mcpe/RakLibInterface(149): pocketmine\Player->handleDataPacket(pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #7 vendor/pocketmine/raklib/server/ServerHandler(103): pocketmine\network\mcpe\RakLibInterface->handleEncapsulated(string 192.168.0.100 41969, raklib\protocol\EncapsulatedPacket object, integer 0)
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #8 src/pocketmine/network/mcpe/RakLibInterface(88): raklib\server\ServerHandler->handlePacket()
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #9 src/pocketmine/network/Network(89): pocketmine\network\mcpe\RakLibInterface->process()
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #10 src/pocketmine/Server(2531): pocketmine\network\Network->processInterfaces()
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #11 src/pocketmine/Server(2283): pocketmine\Server->tick()
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #12 src/pocketmine/Server(2158): pocketmine\Server->tickProcessor()
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #13 src/pocketmine/Server(1744): pocketmine\Server->start()
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #14 src/pocketmine/PocketMine(556): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/inseto/projetos/sercidor.1.2.8/, string /home/inseto/projetos/sercidor.1.2.8/plugins/)
+2026-05-06 [08:57:00] [RakLibServer thread/NOTICE]: Blocked 192.168.0.100 for 5 seconds
+2026-05-06 [08:57:00] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [08:57:00] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:57:00] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:57:00] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:57:00] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [08:57:00] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:57:00] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:57:00] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:57:00] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:57:00] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:57:00] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:57:00] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:57:00] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:57:00] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [08:57:00] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [08:57:00] [Server thread/CRITICAL]: ParseError: "syntax error, unexpected 'private' (T_PRIVATE)" (EXCEPTION) in "SimpleLogin" at line 47
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #0 src/pocketmine/plugin/PluginManager(161): pocketmine\plugin\ScriptPluginLoader->loadPlugin(string /home/inseto/projetos/sercidor.1.2.8/plugins/SimpleLogin.php)
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #1 src/pocketmine/plugin/PluginManager(305): pocketmine\plugin\PluginManager->loadPlugin(string /home/inseto/projetos/sercidor.1.2.8/plugins/SimpleLogin.php, array Array())
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #2 src/pocketmine/Server(1658): pocketmine\plugin\PluginManager->loadPlugins(string /home/inseto/projetos/sercidor.1.2.8/plugins/)
+2026-05-06 [08:57:00] [Server thread/DEBUG]: #3 src/pocketmine/PocketMine(556): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/inseto/projetos/sercidor.1.2.8/, string /home/inseto/projetos/sercidor.1.2.8/plugins/)
+2026-05-06 [08:57:00] [Server thread/CRITICAL]: Could not load plugin 'SimpleLogin'
+2026-05-06 [08:57:00] [RakLibServer thread/CRITICAL]: InvalidStateException: "Failed to bind to 0.0.0.0 19132: Address already in use" (EXCEPTION) in "vendor/pocketmine/raklib/server/UDPServerSocket" at line 37
+2026-05-06 [08:57:00] [RakLibServer thread/DEBUG]: #0 vendor/pocketmine/raklib/server/RakLibServer(219): raklib\server\UDPServerSocket->__construct(raklib\utils\InternetAddress object)
+2026-05-06 [08:57:00] [RakLibServer thread/DEBUG]: #1 (): raklib\server\RakLibServer->run()
+2026-05-06 [08:57:00] [Server thread/EMERGENCY]: RakLib crashed!
+2026-05-06 [08:57:00] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:57:00] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:57:00] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:57:00] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:57:00] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:57:00] [Server thread/INFO]: Done (0.319s)! For help, type "help" or "?"
+2026-05-06 [08:57:00] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\mcpe\RakLibInterface due to RakLib Thread crashed
+2026-05-06 [08:57:05] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\Player::handleAnimate() must be an instance of pocketmine\AnimatePacket, instance of pocketmine\network\mcpe\protocol\AnimatePacket given, called in /home/inseto/projetos/sercidor.1.2.8/PocketMine-MP/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter.php on line 164" (EXCEPTION) in "src/pocketmine/Player" at line 2792
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #0 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(164): pocketmine\Player->handleAnimate(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #1 src/pocketmine/network/mcpe/protocol/AnimatePacket(63): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleAnimate(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #2 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(92): pocketmine\network\mcpe\protocol\AnimatePacket->handle(pocketmine\network\mcpe\PlayerNetworkSessionAdapter object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #3 src/pocketmine/network/mcpe/protocol/BatchPacket(115): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #4 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(92): pocketmine\network\mcpe\protocol\BatchPacket->handle(pocketmine\network\mcpe\PlayerNetworkSessionAdapter object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #5 src/pocketmine/Player(3026): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #6 src/pocketmine/network/mcpe/RakLibInterface(149): pocketmine\Player->handleDataPacket(pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #7 vendor/pocketmine/raklib/server/ServerHandler(103): pocketmine\network\mcpe\RakLibInterface->handleEncapsulated(string 192.168.0.100 41969, raklib\protocol\EncapsulatedPacket object, integer 0)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #8 src/pocketmine/network/mcpe/RakLibInterface(90): raklib\server\ServerHandler->handlePacket()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #9 src/pocketmine/network/Network(89): pocketmine\network\mcpe\RakLibInterface->process()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #10 src/pocketmine/Server(2531): pocketmine\network\Network->processInterfaces()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #11 src/pocketmine/Server(2283): pocketmine\Server->tick()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #12 src/pocketmine/Server(2158): pocketmine\Server->tickProcessor()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #13 src/pocketmine/Server(1744): pocketmine\Server->start()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #14 src/pocketmine/PocketMine(556): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/inseto/projetos/sercidor.1.2.8/, string /home/inseto/projetos/sercidor.1.2.8/plugins/)
+2026-05-06 [08:57:05] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\Player::handleAnimate() must be an instance of pocketmine\AnimatePacket, instance of pocketmine\network\mcpe\protocol\AnimatePacket given, called in /home/inseto/projetos/sercidor.1.2.8/PocketMine-MP/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter.php on line 164" (EXCEPTION) in "src/pocketmine/Player" at line 2792
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #0 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(164): pocketmine\Player->handleAnimate(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #1 src/pocketmine/network/mcpe/protocol/AnimatePacket(63): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleAnimate(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #2 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(92): pocketmine\network\mcpe\protocol\AnimatePacket->handle(pocketmine\network\mcpe\PlayerNetworkSessionAdapter object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #3 src/pocketmine/network/mcpe/protocol/BatchPacket(115): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #4 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(92): pocketmine\network\mcpe\protocol\BatchPacket->handle(pocketmine\network\mcpe\PlayerNetworkSessionAdapter object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #5 src/pocketmine/Player(3026): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #6 src/pocketmine/network/mcpe/RakLibInterface(149): pocketmine\Player->handleDataPacket(pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #7 vendor/pocketmine/raklib/server/ServerHandler(103): pocketmine\network\mcpe\RakLibInterface->handleEncapsulated(string 192.168.0.100 41969, raklib\protocol\EncapsulatedPacket object, integer 0)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #8 src/pocketmine/network/mcpe/RakLibInterface(90): raklib\server\ServerHandler->handlePacket()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #9 src/pocketmine/network/Network(89): pocketmine\network\mcpe\RakLibInterface->process()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #10 src/pocketmine/Server(2531): pocketmine\network\Network->processInterfaces()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #11 src/pocketmine/Server(2283): pocketmine\Server->tick()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #12 src/pocketmine/Server(2158): pocketmine\Server->tickProcessor()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #13 src/pocketmine/Server(1744): pocketmine\Server->start()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #14 src/pocketmine/PocketMine(556): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/inseto/projetos/sercidor.1.2.8/, string /home/inseto/projetos/sercidor.1.2.8/plugins/)
+2026-05-06 [08:57:05] [RakLibServer thread/NOTICE]: Blocked 192.168.0.100 for 5 seconds
+2026-05-06 [08:57:05] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\Player::handleAnimate() must be an instance of pocketmine\AnimatePacket, instance of pocketmine\network\mcpe\protocol\AnimatePacket given, called in /home/inseto/projetos/sercidor.1.2.8/PocketMine-MP/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter.php on line 164" (EXCEPTION) in "src/pocketmine/Player" at line 2792
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #0 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(164): pocketmine\Player->handleAnimate(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #1 src/pocketmine/network/mcpe/protocol/AnimatePacket(63): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleAnimate(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #2 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(92): pocketmine\network\mcpe\protocol\AnimatePacket->handle(pocketmine\network\mcpe\PlayerNetworkSessionAdapter object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #3 src/pocketmine/network/mcpe/protocol/BatchPacket(115): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #4 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(92): pocketmine\network\mcpe\protocol\BatchPacket->handle(pocketmine\network\mcpe\PlayerNetworkSessionAdapter object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #5 src/pocketmine/Player(3026): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #6 src/pocketmine/network/mcpe/RakLibInterface(149): pocketmine\Player->handleDataPacket(pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #7 vendor/pocketmine/raklib/server/ServerHandler(103): pocketmine\network\mcpe\RakLibInterface->handleEncapsulated(string 192.168.0.100 41969, raklib\protocol\EncapsulatedPacket object, integer 0)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #8 src/pocketmine/network/mcpe/RakLibInterface(90): raklib\server\ServerHandler->handlePacket()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #9 src/pocketmine/network/Network(89): pocketmine\network\mcpe\RakLibInterface->process()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #10 src/pocketmine/Server(2531): pocketmine\network\Network->processInterfaces()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #11 src/pocketmine/Server(2283): pocketmine\Server->tick()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #12 src/pocketmine/Server(2158): pocketmine\Server->tickProcessor()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #13 src/pocketmine/Server(1744): pocketmine\Server->start()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #14 src/pocketmine/PocketMine(556): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/inseto/projetos/sercidor.1.2.8/, string /home/inseto/projetos/sercidor.1.2.8/plugins/)
+2026-05-06 [08:57:05] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\Player::handleAnimate() must be an instance of pocketmine\AnimatePacket, instance of pocketmine\network\mcpe\protocol\AnimatePacket given, called in /home/inseto/projetos/sercidor.1.2.8/PocketMine-MP/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter.php on line 164" (EXCEPTION) in "src/pocketmine/Player" at line 2792
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #0 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(164): pocketmine\Player->handleAnimate(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #1 src/pocketmine/network/mcpe/protocol/AnimatePacket(63): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleAnimate(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #2 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(92): pocketmine\network\mcpe\protocol\AnimatePacket->handle(pocketmine\network\mcpe\PlayerNetworkSessionAdapter object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #3 src/pocketmine/network/mcpe/protocol/BatchPacket(115): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #4 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(92): pocketmine\network\mcpe\protocol\BatchPacket->handle(pocketmine\network\mcpe\PlayerNetworkSessionAdapter object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #5 src/pocketmine/Player(3026): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #6 src/pocketmine/network/mcpe/RakLibInterface(149): pocketmine\Player->handleDataPacket(pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #7 vendor/pocketmine/raklib/server/ServerHandler(103): pocketmine\network\mcpe\RakLibInterface->handleEncapsulated(string 192.168.0.100 41969, raklib\protocol\EncapsulatedPacket object, integer 0)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #8 src/pocketmine/network/mcpe/RakLibInterface(90): raklib\server\ServerHandler->handlePacket()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #9 src/pocketmine/network/Network(89): pocketmine\network\mcpe\RakLibInterface->process()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #10 src/pocketmine/Server(2531): pocketmine\network\Network->processInterfaces()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #11 src/pocketmine/Server(2283): pocketmine\Server->tick()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #12 src/pocketmine/Server(2158): pocketmine\Server->tickProcessor()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #13 src/pocketmine/Server(1744): pocketmine\Server->start()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #14 src/pocketmine/PocketMine(556): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/inseto/projetos/sercidor.1.2.8/, string /home/inseto/projetos/sercidor.1.2.8/plugins/)
+2026-05-06 [08:57:05] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\Player::handleAnimate() must be an instance of pocketmine\AnimatePacket, instance of pocketmine\network\mcpe\protocol\AnimatePacket given, called in /home/inseto/projetos/sercidor.1.2.8/PocketMine-MP/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter.php on line 164" (EXCEPTION) in "src/pocketmine/Player" at line 2792
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #0 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(164): pocketmine\Player->handleAnimate(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #1 src/pocketmine/network/mcpe/protocol/AnimatePacket(63): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleAnimate(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #2 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(92): pocketmine\network\mcpe\protocol\AnimatePacket->handle(pocketmine\network\mcpe\PlayerNetworkSessionAdapter object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #3 src/pocketmine/network/mcpe/protocol/BatchPacket(115): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #4 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(92): pocketmine\network\mcpe\protocol\BatchPacket->handle(pocketmine\network\mcpe\PlayerNetworkSessionAdapter object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #5 src/pocketmine/Player(3026): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #6 src/pocketmine/network/mcpe/RakLibInterface(149): pocketmine\Player->handleDataPacket(pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #7 vendor/pocketmine/raklib/server/ServerHandler(103): pocketmine\network\mcpe\RakLibInterface->handleEncapsulated(string 192.168.0.100 41969, raklib\protocol\EncapsulatedPacket object, integer 0)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #8 src/pocketmine/network/mcpe/RakLibInterface(90): raklib\server\ServerHandler->handlePacket()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #9 src/pocketmine/network/Network(89): pocketmine\network\mcpe\RakLibInterface->process()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #10 src/pocketmine/Server(2531): pocketmine\network\Network->processInterfaces()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #11 src/pocketmine/Server(2283): pocketmine\Server->tick()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #12 src/pocketmine/Server(2158): pocketmine\Server->tickProcessor()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #13 src/pocketmine/Server(1744): pocketmine\Server->start()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #14 src/pocketmine/PocketMine(556): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/inseto/projetos/sercidor.1.2.8/, string /home/inseto/projetos/sercidor.1.2.8/plugins/)
+2026-05-06 [08:57:05] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\Player::handleAnimate() must be an instance of pocketmine\AnimatePacket, instance of pocketmine\network\mcpe\protocol\AnimatePacket given, called in /home/inseto/projetos/sercidor.1.2.8/PocketMine-MP/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter.php on line 164" (EXCEPTION) in "src/pocketmine/Player" at line 2792
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #0 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(164): pocketmine\Player->handleAnimate(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #1 src/pocketmine/network/mcpe/protocol/AnimatePacket(63): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleAnimate(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #2 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(92): pocketmine\network\mcpe\protocol\AnimatePacket->handle(pocketmine\network\mcpe\PlayerNetworkSessionAdapter object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #3 src/pocketmine/network/mcpe/protocol/BatchPacket(115): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #4 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(92): pocketmine\network\mcpe\protocol\BatchPacket->handle(pocketmine\network\mcpe\PlayerNetworkSessionAdapter object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #5 src/pocketmine/Player(3026): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #6 src/pocketmine/network/mcpe/RakLibInterface(149): pocketmine\Player->handleDataPacket(pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #7 vendor/pocketmine/raklib/server/ServerHandler(103): pocketmine\network\mcpe\RakLibInterface->handleEncapsulated(string 192.168.0.100 41969, raklib\protocol\EncapsulatedPacket object, integer 0)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #8 src/pocketmine/network/mcpe/RakLibInterface(90): raklib\server\ServerHandler->handlePacket()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #9 src/pocketmine/network/Network(89): pocketmine\network\mcpe\RakLibInterface->process()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #10 src/pocketmine/Server(2531): pocketmine\network\Network->processInterfaces()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #11 src/pocketmine/Server(2283): pocketmine\Server->tick()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #12 src/pocketmine/Server(2158): pocketmine\Server->tickProcessor()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #13 src/pocketmine/Server(1744): pocketmine\Server->start()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #14 src/pocketmine/PocketMine(556): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/inseto/projetos/sercidor.1.2.8/, string /home/inseto/projetos/sercidor.1.2.8/plugins/)
+2026-05-06 [08:57:05] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\Player::handleAnimate() must be an instance of pocketmine\AnimatePacket, instance of pocketmine\network\mcpe\protocol\AnimatePacket given, called in /home/inseto/projetos/sercidor.1.2.8/PocketMine-MP/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter.php on line 164" (EXCEPTION) in "src/pocketmine/Player" at line 2792
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #0 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(164): pocketmine\Player->handleAnimate(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #1 src/pocketmine/network/mcpe/protocol/AnimatePacket(63): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleAnimate(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #2 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(92): pocketmine\network\mcpe\protocol\AnimatePacket->handle(pocketmine\network\mcpe\PlayerNetworkSessionAdapter object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #3 src/pocketmine/network/mcpe/protocol/BatchPacket(115): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(pocketmine\network\mcpe\protocol\AnimatePacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #4 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(92): pocketmine\network\mcpe\protocol\BatchPacket->handle(pocketmine\network\mcpe\PlayerNetworkSessionAdapter object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #5 src/pocketmine/Player(3026): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #6 src/pocketmine/network/mcpe/RakLibInterface(149): pocketmine\Player->handleDataPacket(pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #7 vendor/pocketmine/raklib/server/ServerHandler(103): pocketmine\network\mcpe\RakLibInterface->handleEncapsulated(string 192.168.0.100 41969, raklib\protocol\EncapsulatedPacket object, integer 0)
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #8 src/pocketmine/network/mcpe/RakLibInterface(90): raklib\server\ServerHandler->handlePacket()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #9 src/pocketmine/network/Network(89): pocketmine\network\mcpe\RakLibInterface->process()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #10 src/pocketmine/Server(2531): pocketmine\network\Network->processInterfaces()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #11 src/pocketmine/Server(2283): pocketmine\Server->tick()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #12 src/pocketmine/Server(2158): pocketmine\Server->tickProcessor()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #13 src/pocketmine/Server(1744): pocketmine\Server->start()
+2026-05-06 [08:57:05] [Server thread/DEBUG]: #14 src/pocketmine/PocketMine(556): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/inseto/projetos/sercidor.1.2.8/, string /home/inseto/projetos/sercidor.1.2.8/plugins/)
+2026-05-06 [08:57:15] [Server thread/INFO]: leni left the game
+2026-05-06 [08:57:15] [Server thread/INFO]: leni[/192.168.0.100:41969] logged out due to timeout
+2026-05-06 [08:57:22] [Server thread/INFO]: Disabling SimpleLogin v1.2.0
+2026-05-06 [08:57:22] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [08:57:22] [Server thread/INFO]: Stopping other threads
+2026-05-06 [08:57:22] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [08:57:22] [Server thread/INFO]: Stopping other threads
+2026-05-06 [08:57:25] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [08:57:25] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:57:25] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:57:25] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:57:25] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [08:57:25] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:57:25] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:57:25] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:57:25] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:57:25] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:57:25] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:57:26] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:57:26] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:57:26] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [08:57:26] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [08:57:26] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:57:26] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [08:57:26] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [08:57:26] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:57:26] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:57:26] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:57:26] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:57:26] [Server thread/INFO]: Done (0.254s)! For help, type "help" or "?"
+2026-05-06 [08:57:39] [Server thread/INFO]: leni[/192.168.0.100:41969] logged in with entity id 1 at (world, 256, 70, 256)
+2026-05-06 [08:57:41] [Server thread/INFO]: leni joined the game
+2026-05-06 [08:57:42] [Server thread/CRITICAL]: Could not execute task class@anonymous /home/inseto/projetos/sercidor.1.2.8/plugins/SimpleLogin.php0x7fb87f4217b2: Class 'pocketmine\form\CustomForm' not found
+2026-05-06 [08:57:42] [Server thread/CRITICAL]: Error: "Class 'pocketmine\form\CustomForm' not found" (EXCEPTION) in "SimpleLogin" at line 118
+2026-05-06 [08:57:42] [Server thread/DEBUG]: #0 SimpleLogin(65): SimpleLogin\Main->showRegisterForm(pocketmine\Player object)
+2026-05-06 [08:57:42] [Server thread/DEBUG]: #1 SimpleLogin(56): SimpleLogin\Main->checkAuth(pocketmine\Player object)
+2026-05-06 [08:57:42] [Server thread/DEBUG]: #2 src/pocketmine/scheduler/TaskHandler(160): class@anonymous /home/inseto/projetos/sercidor.1.2.8/plugins/SimpleLogin.php0x7fb87f4217b2->onRun(integer 319)
+2026-05-06 [08:57:42] [Server thread/DEBUG]: #3 src/pocketmine/scheduler/ServerScheduler(326): pocketmine\scheduler\TaskHandler->run(integer 319)
+2026-05-06 [08:57:42] [Server thread/DEBUG]: #4 src/pocketmine/Server(2540): pocketmine\scheduler\ServerScheduler->mainThreadHeartbeat(integer 319)
+2026-05-06 [08:57:42] [Server thread/DEBUG]: #5 src/pocketmine/Server(2283): pocketmine\Server->tick()
+2026-05-06 [08:57:42] [Server thread/DEBUG]: #6 src/pocketmine/Server(2158): pocketmine\Server->tickProcessor()
+2026-05-06 [08:57:42] [Server thread/DEBUG]: #7 src/pocketmine/Server(1744): pocketmine\Server->start()
+2026-05-06 [08:57:42] [Server thread/DEBUG]: #8 src/pocketmine/PocketMine(556): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/inseto/projetos/sercidor.1.2.8/, string /home/inseto/projetos/sercidor.1.2.8/plugins/)
+2026-05-06 [08:58:57] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [08:58:57] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:58:57] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:58:57] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:58:57] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [08:58:57] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:58:57] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:58:57] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:58:57] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:58:57] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:58:57] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:58:57] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:58:57] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:58:57] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [08:58:57] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [08:58:57] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:58:57] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [08:58:57] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [08:58:57] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:58:57] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:58:57] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:58:57] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:58:57] [Server thread/INFO]: Done (0.368s)! For help, type "help" or "?"
+2026-05-06 [08:59:08] [Server thread/INFO]: Disabling SimpleLogin v1.2.0
+2026-05-06 [08:59:08] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [08:59:08] [Server thread/INFO]: Stopping other threads
+2026-05-06 [08:59:08] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [08:59:08] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:59:08] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:59:08] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:59:08] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [08:59:08] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:59:08] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:59:08] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:59:08] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:59:09] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:59:09] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:59:09] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:59:09] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:59:09] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [08:59:09] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [08:59:09] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:59:09] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [08:59:09] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [08:59:09] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:59:09] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:59:09] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:59:09] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:59:09] [Server thread/INFO]: Done (0.273s)! For help, type "help" or "?"
+2026-05-06 [08:59:11] [Server thread/INFO]: Disabling SimpleLogin v1.2.0
+2026-05-06 [08:59:11] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [08:59:11] [Server thread/INFO]: Stopping other threads
+2026-05-06 [08:59:15] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [08:59:15] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:59:15] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:59:15] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:59:15] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [08:59:15] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:59:15] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:59:15] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:59:15] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:59:15] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:59:15] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:59:15] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:59:16] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:59:16] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [08:59:16] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [08:59:16] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:59:16] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [08:59:16] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [08:59:16] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:59:16] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:59:16] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:59:16] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:59:16] [Server thread/INFO]: Done (0.456s)! For help, type "help" or "?"
+2026-05-06 [08:59:24] [Server thread/INFO]: Disabling SimpleLogin v1.2.0
+2026-05-06 [08:59:24] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [08:59:24] [Server thread/INFO]: Stopping other threads
+2026-05-06 [08:59:24] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [08:59:24] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [08:59:24] [Server thread/INFO]: Loading server properties...
+2026-05-06 [08:59:24] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [08:59:24] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [08:59:25] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [08:59:25] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [08:59:25] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [08:59:25] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [08:59:25] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [08:59:25] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2026-05-06 [08:59:25] [Server thread/INFO]: Loading recipes...
+2026-05-06 [08:59:25] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [08:59:25] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [08:59:25] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [08:59:25] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [08:59:25] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [08:59:25] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [08:59:25] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [08:59:25] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [08:59:25] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [08:59:25] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [08:59:25] [Server thread/INFO]: Done (0.296s)! For help, type "help" or "?"
+2026-05-06 [09:02:33] [Server thread/INFO]: leni[/192.168.0.100:41969] logged in with entity id 1 at (world, 256, 70, 256)
+2026-05-06 [09:02:34] [Server thread/INFO]: leni joined the game
+2026-05-06 [09:02:35] [Server thread/CRITICAL]: Could not execute task class@anonymous /home/inseto/projetos/sercidor.1.2.8/plugins/SimpleLogin.php0x7fe96c42c7b2: Class 'pocketmine\form\CustomForm' not found
+2026-05-06 [09:02:35] [Server thread/CRITICAL]: Error: "Class 'pocketmine\form\CustomForm' not found" (EXCEPTION) in "SimpleLogin" at line 118
+2026-05-06 [09:02:35] [Server thread/DEBUG]: #0 SimpleLogin(65): SimpleLogin\Main->showRegisterForm(pocketmine\Player object)
+2026-05-06 [09:02:35] [Server thread/DEBUG]: #1 SimpleLogin(56): SimpleLogin\Main->checkAuth(pocketmine\Player object)
+2026-05-06 [09:02:35] [Server thread/DEBUG]: #2 src/pocketmine/scheduler/TaskHandler(160): class@anonymous /home/inseto/projetos/sercidor.1.2.8/plugins/SimpleLogin.php0x7fe96c42c7b2->onRun(integer 3805)
+2026-05-06 [09:02:35] [Server thread/DEBUG]: #3 src/pocketmine/scheduler/ServerScheduler(326): pocketmine\scheduler\TaskHandler->run(integer 3805)
+2026-05-06 [09:02:35] [Server thread/DEBUG]: #4 src/pocketmine/Server(2540): pocketmine\scheduler\ServerScheduler->mainThreadHeartbeat(integer 3805)
+2026-05-06 [09:02:35] [Server thread/DEBUG]: #5 src/pocketmine/Server(2283): pocketmine\Server->tick()
+2026-05-06 [09:02:35] [Server thread/DEBUG]: #6 src/pocketmine/Server(2158): pocketmine\Server->tickProcessor()
+2026-05-06 [09:02:35] [Server thread/DEBUG]: #7 src/pocketmine/Server(1744): pocketmine\Server->start()
+2026-05-06 [09:02:35] [Server thread/DEBUG]: #8 src/pocketmine/PocketMine(556): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/inseto/projetos/sercidor.1.2.8/, string /home/inseto/projetos/sercidor.1.2.8/plugins/)
+2026-05-06 [09:02:42] [Server thread/INFO]: Disabling SimpleLogin v1.2.0
+2026-05-06 [09:02:42] [Server thread/INFO]: leni left the game
+2026-05-06 [09:02:42] [Server thread/INFO]: leni[/192.168.0.100:41969] logged out due to Server closed
+2026-05-06 [09:02:42] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [09:02:42] [Server thread/INFO]: Stopping other threads
+2026-05-06 [09:02:43] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [09:02:43] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [09:02:43] [Server thread/INFO]: Loading server properties...
+2026-05-06 [09:02:43] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [09:02:43] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [09:02:43] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [09:02:43] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [09:02:43] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [09:02:43] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [09:02:43] [Server thread/INFO]: This server is running Leni Anarquia version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [09:02:43] [Server thread/INFO]: Leni Anarquia is distributed under the LGPL License
+2026-05-06 [09:02:43] [Server thread/INFO]: Loading recipes...
+2026-05-06 [09:02:43] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [09:02:43] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [09:02:43] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [09:02:43] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [09:02:43] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [09:02:43] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [09:02:43] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [09:02:43] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [09:02:43] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [09:02:43] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [09:02:43] [Server thread/INFO]: Done (0.385s)! For help, type "help" or "?"
+2026-05-06 [09:05:03] [Server thread/INFO]: Disabling SimpleLogin v1.2.0
+2026-05-06 [09:05:03] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [09:05:03] [Server thread/INFO]: Stopping other threads
+2026-05-06 [09:05:25] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [09:05:25] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [09:05:25] [Server thread/INFO]: Loading server properties...
+2026-05-06 [09:05:25] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [09:05:25] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [09:05:25] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [09:05:25] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [09:05:25] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [09:05:25] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [09:05:25] [Server thread/INFO]: This server is running Leni Anarquia version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [09:05:25] [Server thread/INFO]: Leni Anarquia is distributed under the LGPL License
+2026-05-06 [09:05:25] [Server thread/INFO]: Loading recipes...
+2026-05-06 [09:05:26] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [09:05:26] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [09:05:26] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [09:05:26] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [09:05:26] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [09:05:26] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [09:05:26] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [09:05:26] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [09:05:26] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [09:05:26] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [09:05:26] [Server thread/INFO]: Done (0.468s)! For help, type "help" or "?"
+2026-05-06 [09:08:32] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [09:08:32] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [09:08:32] [Server thread/INFO]: Loading server properties...
+2026-05-06 [09:08:32] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [09:08:32] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [09:08:32] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [09:08:32] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [09:08:32] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [09:08:32] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [09:08:32] [Server thread/INFO]: This server is running Leni Anarquia version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [09:08:32] [Server thread/INFO]: Leni Anarquia is distributed under the LGPL License
+2026-05-06 [09:08:32] [Server thread/INFO]: Loading recipes...
+2026-05-06 [09:08:32] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [09:08:32] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [09:08:32] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [09:08:32] [RakLibServer thread/CRITICAL]: InvalidStateException: "Failed to bind to 0.0.0.0 19132: Address already in use" (EXCEPTION) in "vendor/pocketmine/raklib/server/UDPServerSocket" at line 37
+2026-05-06 [09:08:32] [RakLibServer thread/DEBUG]: #0 vendor/pocketmine/raklib/server/RakLibServer(219): raklib\server\UDPServerSocket->__construct(raklib\utils\InternetAddress object)
+2026-05-06 [09:08:32] [RakLibServer thread/DEBUG]: #1 (): raklib\server\RakLibServer->run()
+2026-05-06 [09:08:32] [Server thread/EMERGENCY]: RakLib crashed!
+2026-05-06 [09:08:32] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [09:08:32] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [09:08:32] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [09:08:32] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [09:08:32] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [09:08:32] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [09:08:32] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [09:08:32] [Server thread/INFO]: Done (0.436s)! For help, type "help" or "?"
+2026-05-06 [09:08:32] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\mcpe\RakLibInterface due to RakLib Thread crashed
+2026-05-06 [09:08:34] [Server thread/INFO]: Disabling SimpleLogin v1.2.0
+2026-05-06 [09:08:34] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [09:08:36] [Server thread/INFO]: Stopping other threads
+2026-05-06 [09:08:40] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [09:08:40] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [09:08:40] [Server thread/INFO]: Loading server properties...
+2026-05-06 [09:08:40] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [09:08:40] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [09:08:40] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [09:08:40] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [09:08:40] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [09:08:40] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [09:08:40] [Server thread/INFO]: This server is running Leni Anarquia version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [09:08:40] [Server thread/INFO]: Leni Anarquia is distributed under the LGPL License
+2026-05-06 [09:08:40] [Server thread/INFO]: Loading recipes...
+2026-05-06 [09:08:40] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [09:08:40] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [09:08:40] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [09:08:41] [RakLibServer thread/CRITICAL]: InvalidStateException: "Failed to bind to 0.0.0.0 19132: Address already in use" (EXCEPTION) in "vendor/pocketmine/raklib/server/UDPServerSocket" at line 37
+2026-05-06 [09:08:41] [RakLibServer thread/DEBUG]: #0 vendor/pocketmine/raklib/server/RakLibServer(219): raklib\server\UDPServerSocket->__construct(raklib\utils\InternetAddress object)
+2026-05-06 [09:08:41] [RakLibServer thread/DEBUG]: #1 (): raklib\server\RakLibServer->run()
+2026-05-06 [09:08:41] [Server thread/EMERGENCY]: RakLib crashed!
+2026-05-06 [09:08:41] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [09:08:41] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [09:08:41] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [09:08:41] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [09:08:41] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [09:08:41] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [09:08:41] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [09:08:41] [Server thread/INFO]: Done (0.56s)! For help, type "help" or "?"
+2026-05-06 [09:08:41] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\mcpe\RakLibInterface due to RakLib Thread crashed
+2026-05-06 [09:09:01] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [09:09:01] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [09:09:01] [Server thread/INFO]: Loading server properties...
+2026-05-06 [09:09:01] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [09:09:01] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [09:09:01] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [09:09:01] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [09:09:01] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [09:09:01] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [09:09:01] [Server thread/INFO]: This server is running Leni Anarquia version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [09:09:01] [Server thread/INFO]: Leni Anarquia is distributed under the LGPL License
+2026-05-06 [09:09:01] [Server thread/INFO]: Loading recipes...
+2026-05-06 [09:09:01] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [09:09:01] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [09:09:01] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [09:09:01] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [09:09:01] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [09:09:01] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [09:09:01] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [09:09:01] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [09:09:01] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [09:09:01] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [09:09:01] [Server thread/INFO]: Done (0.444s)! For help, type "help" or "?"
+2026-05-06 [09:09:07] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [09:09:07] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [09:09:07] [Server thread/INFO]: Loading server properties...
+2026-05-06 [09:09:07] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [09:09:07] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [09:09:07] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [09:09:07] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [09:09:07] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [09:09:07] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [09:09:07] [Server thread/INFO]: This server is running Leni Anarquia version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [09:09:07] [Server thread/INFO]: Leni Anarquia is distributed under the LGPL License
+2026-05-06 [09:09:07] [Server thread/INFO]: Loading recipes...
+2026-05-06 [09:09:07] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [09:09:07] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [09:09:07] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [09:09:07] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [09:09:07] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [09:09:08] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [09:09:08] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [09:09:08] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [09:09:08] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [09:09:08] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [09:09:08] [Server thread/INFO]: Done (0.305s)! For help, type "help" or "?"
+2026-05-06 [09:09:20] [Server thread/INFO]: leni[/192.168.0.100:41969] logged in with entity id 1 at (world, 256, 70.001, 256)
+2026-05-06 [09:09:21] [Server thread/INFO]: leni joined the game
+2026-05-06 [09:09:33] [Server thread/CRITICAL]: Error: "Class 'pocketmine\event\form\FormDataReceiveEvent' not found" (EXCEPTION) in "src/pocketmine/Player" at line 1386
+2026-05-06 [09:09:33] [Server thread/DEBUG]: #0 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(240): pocketmine\Player->handleModalFormResponse(pocketmine\network\mcpe\protocol\ModalFormResponsePacket object)
+2026-05-06 [09:09:33] [Server thread/DEBUG]: #1 src/pocketmine/network/mcpe/protocol/ModalFormResponsePacket(49): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleModalFormResponse(pocketmine\network\mcpe\protocol\ModalFormResponsePacket object)
+2026-05-06 [09:09:33] [Server thread/DEBUG]: #2 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(92): pocketmine\network\mcpe\protocol\ModalFormResponsePacket->handle(pocketmine\network\mcpe\PlayerNetworkSessionAdapter object)
+2026-05-06 [09:09:33] [Server thread/DEBUG]: #3 src/pocketmine/network/mcpe/protocol/BatchPacket(115): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(pocketmine\network\mcpe\protocol\ModalFormResponsePacket object)
+2026-05-06 [09:09:33] [Server thread/DEBUG]: #4 src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(92): pocketmine\network\mcpe\protocol\BatchPacket->handle(pocketmine\network\mcpe\PlayerNetworkSessionAdapter object)
+2026-05-06 [09:09:33] [Server thread/DEBUG]: #5 src/pocketmine/Player(3026): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [09:09:33] [Server thread/DEBUG]: #6 src/pocketmine/network/mcpe/RakLibInterface(149): pocketmine\Player->handleDataPacket(pocketmine\network\mcpe\protocol\BatchPacket object)
+2026-05-06 [09:09:33] [Server thread/DEBUG]: #7 vendor/pocketmine/raklib/server/ServerHandler(103): pocketmine\network\mcpe\RakLibInterface->handleEncapsulated(string 192.168.0.100 41969, raklib\protocol\EncapsulatedPacket object, integer 0)
+2026-05-06 [09:09:33] [Server thread/DEBUG]: #8 src/pocketmine/network/mcpe/RakLibInterface(88): raklib\server\ServerHandler->handlePacket()
+2026-05-06 [09:09:33] [Server thread/DEBUG]: #9 src/pocketmine/network/Network(89): pocketmine\network\mcpe\RakLibInterface->process()
+2026-05-06 [09:09:33] [Server thread/DEBUG]: #10 src/pocketmine/Server(2531): pocketmine\network\Network->processInterfaces()
+2026-05-06 [09:09:33] [Server thread/DEBUG]: #11 src/pocketmine/Server(2283): pocketmine\Server->tick()
+2026-05-06 [09:09:33] [Server thread/DEBUG]: #12 src/pocketmine/Server(2158): pocketmine\Server->tickProcessor()
+2026-05-06 [09:09:33] [Server thread/DEBUG]: #13 src/pocketmine/Server(1744): pocketmine\Server->start()
+2026-05-06 [09:09:33] [Server thread/DEBUG]: #14 src/pocketmine/PocketMine(561): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/inseto/projetos/sercidor.1.2.8/, string /home/inseto/projetos/sercidor.1.2.8/plugins/)
+2026-05-06 [09:09:33] [RakLibServer thread/NOTICE]: Blocked 192.168.0.100 for 5 seconds
+2026-05-06 [09:11:33] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [09:11:33] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [09:11:33] [Server thread/INFO]: Loading server properties...
+2026-05-06 [09:11:33] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [09:11:33] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [09:11:33] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [09:11:33] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [09:11:33] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [09:11:33] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [09:11:33] [Server thread/INFO]: This server is running Leni Anarquia version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [09:11:33] [Server thread/INFO]: Leni Anarquia is distributed under the LGPL License
+2026-05-06 [09:11:33] [Server thread/INFO]: Loading recipes...
+2026-05-06 [09:11:33] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [09:11:33] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [09:11:33] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [09:11:33] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [09:11:33] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [09:11:33] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [09:11:33] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [09:11:33] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [09:11:33] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [09:11:33] [Server thread/INFO]: Done (0.273s)! For help, type "help" or "?"
+2026-05-06 [09:11:45] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [09:11:45] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [09:11:45] [Server thread/INFO]: Loading server properties...
+2026-05-06 [09:11:45] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [09:11:45] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [09:11:45] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [09:11:45] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [09:11:45] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [09:11:45] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [09:11:45] [Server thread/INFO]: This server is running Leni Anarquia version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [09:11:45] [Server thread/INFO]: Leni Anarquia is distributed under the LGPL License
+2026-05-06 [09:11:45] [Server thread/INFO]: Loading recipes...
+2026-05-06 [09:11:45] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [09:11:45] [Server thread/INFO]: Loading SimpleLogin v1.2.0
+2026-05-06 [09:11:45] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [09:11:45] [Server thread/INFO]: Enabling SimpleLogin v1.2.0
+2026-05-06 [09:11:45] [Server thread/INFO]: [SimpleLogin] SimpleLogin (FormAPI) habilitado!
+2026-05-06 [09:11:45] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [09:11:45] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [09:11:45] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [09:11:45] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [09:11:45] [Server thread/INFO]: Done (0.528s)! For help, type "help" or "?"
+2026-05-06 [09:11:54] [Server thread/INFO]: leni[/192.168.0.100:41969] logged in with entity id 1 at (world, 256, 70.001, 256)
+2026-05-06 [09:11:56] [Server thread/INFO]: leni joined the game
+2026-05-06 [09:13:02] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [09:13:02] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [09:13:02] [Server thread/INFO]: Loading server properties...
+2026-05-06 [09:13:02] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [09:13:02] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [09:13:02] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [09:13:02] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [09:13:02] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [09:13:02] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [09:13:03] [Server thread/INFO]: This server is running Leni Anarquia version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [09:13:03] [Server thread/INFO]: Leni Anarquia is distributed under the LGPL License
+2026-05-06 [09:13:03] [Server thread/INFO]: Loading recipes...
+2026-05-06 [09:13:03] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [09:13:03] [Server thread/INFO]: Loading SimpleLogin v1.3.0
+2026-05-06 [09:13:03] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [09:13:03] [Server thread/INFO]: Enabling SimpleLogin v1.3.0
+2026-05-06 [09:13:03] [Server thread/INFO]: [SimpleLogin] SimpleLogin v1.3.0 (Sessions) habilitado!
+2026-05-06 [09:13:03] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [09:13:03] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [09:13:03] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [09:13:03] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [09:13:03] [Server thread/INFO]: Done (0.308s)! For help, type "help" or "?"
+2026-05-06 [09:14:07] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [09:14:07] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [09:14:07] [Server thread/INFO]: Loading server properties...
+2026-05-06 [09:14:07] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [09:14:07] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [09:14:07] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [09:14:07] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [09:14:07] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [09:14:07] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [09:14:07] [Server thread/INFO]: This server is running Leni Anarquia version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [09:14:07] [Server thread/INFO]: Leni Anarquia is distributed under the LGPL License
+2026-05-06 [09:14:07] [Server thread/INFO]: Loading recipes...
+2026-05-06 [09:14:07] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [09:14:07] [Server thread/INFO]: Loading SimpleLogin v1.3.0
+2026-05-06 [09:14:07] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [09:14:07] [Server thread/INFO]: Enabling SimpleLogin v1.3.0
+2026-05-06 [09:14:07] [Server thread/INFO]: [SimpleLogin] SimpleLogin v1.3.0 (Sessions) habilitado!
+2026-05-06 [09:14:07] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [09:14:07] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [09:14:07] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [09:14:07] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [09:14:07] [Server thread/INFO]: Done (0.322s)! For help, type "help" or "?"
+2026-05-06 [09:14:14] [Server thread/INFO]: leni[/192.168.0.100:41969] logged in with entity id 1 at (world, 256, 70.001, 256)
+2026-05-06 [09:14:15] [Server thread/INFO]: leni joined the game
+2026-05-06 [09:14:23] [Server thread/INFO]: leni left the game
+2026-05-06 [09:14:23] [Server thread/INFO]: leni[/192.168.0.100:41969] logged out due to client disconnect
+2026-05-06 [09:14:35] [Server thread/INFO]: leni[/192.168.0.100:41969] logged in with entity id 2 at (world, 256, 71, 258.8611)
+2026-05-06 [09:14:37] [Server thread/INFO]: leni joined the game
+2026-05-06 [09:17:39] [Server thread/INFO]: Disabling SimpleLogin v1.3.0
+2026-05-06 [09:17:39] [Server thread/INFO]: leni left the game
+2026-05-06 [09:17:39] [Server thread/INFO]: leni[/192.168.0.100:41969] logged out due to Server closed
+2026-05-06 [09:17:39] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [09:17:39] [Server thread/INFO]: Stopping other threads
+2026-05-06 [09:17:40] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [09:17:40] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [09:17:40] [Server thread/INFO]: Loading server properties...
+2026-05-06 [09:17:40] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [09:17:40] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [09:17:40] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [09:17:40] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [09:17:40] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [09:17:40] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [09:17:40] [Server thread/INFO]: This server is running leni anarquia version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [09:17:40] [Server thread/INFO]: leni anarquia is distributed under the LGPL License
+2026-05-06 [09:17:40] [Server thread/INFO]: Loading recipes...
+2026-05-06 [09:17:40] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [09:17:40] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [09:17:40] [Server thread/INFO]: Loading SimpleLogin v1.3.0
+2026-05-06 [09:17:40] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [09:17:40] [Server thread/INFO]: Enabling SimpleLogin v1.3.0
+2026-05-06 [09:17:40] [Server thread/INFO]: [SimpleLogin] SimpleLogin v1.3.0 (Sessions) habilitado!
+2026-05-06 [09:17:40] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [09:17:40] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [09:17:40] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [09:17:40] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [09:17:40] [Server thread/INFO]: Done (0.271s)! For help, type "help" or "?"
+2026-05-06 [09:17:58] [Server thread/INFO]: Disabling SimpleLogin v1.3.0
+2026-05-06 [09:17:58] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [09:17:58] [Server thread/INFO]: Stopping other threads
+2026-05-06 [09:17:59] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [09:17:59] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [09:17:59] [Server thread/INFO]: Loading server properties...
+2026-05-06 [09:17:59] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [09:17:59] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [09:17:59] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [09:17:59] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [09:17:59] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [09:17:59] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [09:17:59] [Server thread/INFO]: This server is running leni anarquia version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [09:17:59] [Server thread/INFO]: leni anarquia is distributed under the LGPL License
+2026-05-06 [09:17:59] [Server thread/INFO]: Loading recipes...
+2026-05-06 [09:17:59] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [09:17:59] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [09:17:59] [Server thread/INFO]: Loading SimpleLogin v1.3.0
+2026-05-06 [09:17:59] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [09:17:59] [Server thread/INFO]: Enabling SimpleLogin v1.3.0
+2026-05-06 [09:17:59] [Server thread/INFO]: [SimpleLogin] SimpleLogin v1.3.0 (Sessions) habilitado!
+2026-05-06 [09:17:59] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [09:17:59] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [09:17:59] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [09:17:59] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [09:17:59] [Server thread/INFO]: Done (0.278s)! For help, type "help" or "?"
+2026-05-06 [09:18:06] [Server thread/INFO]: Disabling SimpleLogin v1.3.0
+2026-05-06 [09:18:06] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [09:18:06] [Server thread/INFO]: Stopping other threads
+2026-05-06 [09:18:07] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [09:18:07] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [09:18:07] [Server thread/INFO]: Loading server properties...
+2026-05-06 [09:18:07] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [09:18:07] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [09:18:07] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [09:18:07] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [09:18:07] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [09:18:07] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [09:18:07] [Server thread/INFO]: This server is running leni anarquia version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [09:18:07] [Server thread/INFO]: leni anarquia is distributed under the LGPL License
+2026-05-06 [09:18:07] [Server thread/INFO]: Loading recipes...
+2026-05-06 [09:18:07] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [09:18:07] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [09:18:07] [Server thread/INFO]: Loading SimpleLogin v1.3.0
+2026-05-06 [09:18:08] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [09:18:08] [Server thread/INFO]: Enabling SimpleLogin v1.3.0
+2026-05-06 [09:18:08] [Server thread/INFO]: [SimpleLogin] SimpleLogin v1.3.0 (Sessions) habilitado!
+2026-05-06 [09:18:08] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [09:18:08] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [09:18:08] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [09:18:08] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [09:18:08] [Server thread/INFO]: Done (0.275s)! For help, type "help" or "?"
+2026-05-06 [09:18:16] [Server thread/INFO]: Disabling SimpleLogin v1.3.0
+2026-05-06 [09:18:16] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [09:18:16] [Server thread/INFO]: Stopping other threads
+2026-05-06 [09:18:17] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [09:18:17] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [09:18:17] [Server thread/INFO]: Loading server properties...
+2026-05-06 [09:18:17] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [09:18:17] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [09:18:17] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [09:18:17] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [09:18:17] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [09:18:17] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [09:18:17] [Server thread/INFO]: This server is running leni anarquia version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [09:18:17] [Server thread/INFO]: leni anarquia is distributed under the LGPL License
+2026-05-06 [09:18:17] [Server thread/INFO]: Loading recipes...
+2026-05-06 [09:18:17] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [09:18:17] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2026-05-06 [09:18:17] [Server thread/INFO]: Loading SimpleLogin v1.3.0
+2026-05-06 [09:18:17] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [09:18:17] [Server thread/INFO]: Enabling SimpleLogin v1.3.0
+2026-05-06 [09:18:17] [Server thread/INFO]: [SimpleLogin] SimpleLogin v1.3.0 (Sessions) habilitado!
+2026-05-06 [09:18:17] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [09:18:17] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [09:18:17] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [09:18:17] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [09:18:17] [Server thread/INFO]: Done (0.279s)! For help, type "help" or "?"
+2026-05-06 [09:18:27] [Server thread/INFO]: Disabling SimpleLogin v1.3.0
+2026-05-06 [09:18:27] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [09:18:27] [Server thread/INFO]: Stopping other threads
+2026-05-06 [09:18:27] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [09:18:27] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [09:18:27] [Server thread/INFO]: Loading server properties...
+2026-05-06 [09:18:27] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [09:18:27] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [09:18:27] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [09:18:27] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [09:18:27] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [09:18:27] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [09:18:27] [Server thread/INFO]: This server is running leni anarquia version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [09:18:27] [Server thread/INFO]: leni anarquia is distributed under the LGPL License
+2026-05-06 [09:18:27] [Server thread/INFO]: Loading recipes...
+2026-05-06 [09:18:27] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [09:18:27] [Server thread/INFO]: Loading SimpleLogin v1.3.0
+2026-05-06 [09:18:27] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [09:18:27] [Server thread/INFO]: Enabling SimpleLogin v1.3.0
+2026-05-06 [09:18:27] [Server thread/INFO]: [SimpleLogin] SimpleLogin v1.3.0 (Sessions) habilitado!
+2026-05-06 [09:18:27] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [09:18:27] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [09:18:27] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [09:18:27] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [09:18:27] [Server thread/INFO]: Done (0.281s)! For help, type "help" or "?"
+2026-05-06 [09:18:37] [Server thread/INFO]: leni[/192.168.0.100:41969] logged in with entity id 1 at (world, 247.5881, 70, 264.4229)
+2026-05-06 [09:18:39] [Server thread/INFO]: leni joined the game
+2026-05-06 [09:19:33] [Server thread/INFO]: Plugins (1): SimpleLogin v1.3.0
+2026-05-06 [09:20:05] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [09:20:05] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [09:20:05] [Server thread/INFO]: Loading server properties...
+2026-05-06 [09:20:05] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [09:20:05] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [09:20:05] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [09:20:05] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [09:20:05] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [09:20:05] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [09:20:05] [Server thread/INFO]: This server is running leni anarquia version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [09:20:05] [Server thread/INFO]: leni anarquia is distributed under the LGPL License
+2026-05-06 [09:20:05] [Server thread/INFO]: Loading recipes...
+2026-05-06 [09:20:05] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [09:20:05] [Server thread/INFO]: Loading SimpleLogin v1.4.0
+2026-05-06 [09:20:05] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [09:20:05] [Server thread/INFO]: Enabling SimpleLogin v1.4.0
+2026-05-06 [09:20:05] [Server thread/INFO]: [SimpleLogin] SimpleLogin v1.4.0 (Coords) habilitado!
+2026-05-06 [09:20:05] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [09:20:05] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [09:20:05] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [09:20:05] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [09:20:05] [Server thread/INFO]: Done (0.261s)! For help, type "help" or "?"
+2026-05-06 [09:21:13] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [09:21:13] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [09:21:13] [Server thread/INFO]: Loading server properties...
+2026-05-06 [09:21:13] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [09:21:13] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [09:21:13] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [09:21:13] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [09:21:13] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [09:21:13] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [09:21:13] [Server thread/INFO]: This server is running leni anarquia version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [09:21:13] [Server thread/INFO]: leni anarquia is distributed under the LGPL License
+2026-05-06 [09:21:13] [Server thread/INFO]: Loading recipes...
+2026-05-06 [09:21:13] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [09:21:13] [Server thread/INFO]: Loading SimpleLogin v1.4.0
+2026-05-06 [09:21:13] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [09:21:13] [Server thread/INFO]: Enabling SimpleLogin v1.4.0
+2026-05-06 [09:21:13] [Server thread/INFO]: [SimpleLogin] SimpleLogin v1.4.0 (Coords) habilitado!
+2026-05-06 [09:21:13] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [09:21:13] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [09:21:13] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [09:21:13] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [09:21:13] [Server thread/INFO]: Done (0.28s)! For help, type "help" or "?"
+2026-05-06 [09:21:19] [Server thread/INFO]: leni[/192.168.0.100:41969] logged in with entity id 1 at (world, 247.5881, 70, 264.4229)
+2026-05-06 [09:21:21] [Server thread/INFO]: leni joined the game
+2026-05-06 [09:22:18] [Server thread/INFO]: Disabling SimpleLogin v1.4.0
+2026-05-06 [09:22:18] [Server thread/INFO]: leni left the game
+2026-05-06 [09:22:18] [Server thread/INFO]: leni[/192.168.0.100:41969] logged out due to Server closed
+2026-05-06 [09:22:18] [Server thread/INFO]: Unloading level "world"
+2026-05-06 [09:22:18] [Server thread/INFO]: Stopping other threads
+2026-05-06 [09:22:18] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2026-05-06 [09:22:18] [Server thread/INFO]: Loading pocketmine.yml...
+2026-05-06 [09:22:18] [Server thread/INFO]: Loading server properties...
+2026-05-06 [09:22:18] [Server thread/INFO]: Selected English (eng) as the base language
+2026-05-06 [09:22:18] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.8
+2026-05-06 [09:22:18] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2026-05-06 [09:22:18] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2026-05-06 [09:22:18] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2026-05-06 [09:22:18] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2026-05-06 [09:22:18] [Server thread/INFO]: This server is running leni anarquia version 1.7dev-677 "[REDACTED]" (API 3.0.0-ALPHA11)
+2026-05-06 [09:22:18] [Server thread/INFO]: leni anarquia is distributed under the LGPL License
+2026-05-06 [09:22:19] [Server thread/INFO]: Loading recipes...
+2026-05-06 [09:22:19] [Server thread/INFO]: Loading resource packs...
+2026-05-06 [09:22:19] [Server thread/INFO]: Loading leni_login v1.4.0
+2026-05-06 [09:22:19] [Server thread/INFO]: Preparing level "world"
+2026-05-06 [09:22:19] [Server thread/INFO]: Enabling leni_login v1.4.0
+2026-05-06 [09:22:19] [Server thread/INFO]: [leni_login] SimpleLogin v1.4.0 (Coords) habilitado!
+2026-05-06 [09:22:19] [Server thread/INFO]: Starting GS4 status listener
+2026-05-06 [09:22:19] [Server thread/INFO]: Setting query port to 19132
+2026-05-06 [09:22:19] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2026-05-06 [09:22:19] [Server thread/INFO]: Default game type: Survival Mode
+2026-05-06 [09:22:19] [Server thread/INFO]: Done (0.279s)! For help, type "help" or "?"
+2026-05-06 [09:22:25] [Server thread/INFO]: leni[/192.168.0.100:41969] logged in with entity id 1 at (world, 247.5881, 70.001, 264.4229)
+2026-05-06 [09:22:26] [Server thread/INFO]: leni joined the game
+2026-05-06 [09:22:47] [Server thread/INFO]: leni left the game
+2026-05-06 [09:22:47] [Server thread/INFO]: leni[/192.168.0.100:41969] logged out due to client disconnect
+2026-05-06 [09:22:59] [Server thread/INFO]: leni[/192.168.0.100:41969] logged in with entity id 2 at (world, 250.3169, 69, 279.2146)
+2026-05-06 [09:23:01] [Server thread/INFO]: leni joined the game
+2026-05-06 [09:23:08] [Server thread/INFO]: leni[/192.168.0.100:41969] logged out due to generic reason
