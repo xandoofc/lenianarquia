@@ -191,14 +191,14 @@ class Main extends PluginBase implements Listener {
             if (password_verify($pass, $hash)) {
                 $this->authenticated[$name] = true;
                 $this->savePlayer($player, $hash); // Atualiza IP e data
-                $player->sendMessage("§aLogin realizado com sucesso! Sua sessão foi salva.");
+                $player->sendMessage("§aLogin realizado com sucesso");
             } else {
                 $player->sendMessage("§cERRO: Senha incorreta!");
                 $this->showLoginForm($player);
             }
         });
 
-        $form->addElement(new Label("Olá novamente! Por favor, digite sua senha para entrar."));
+        $form->addElement(new Label("digite sua senha para entrar."));
         $form->addElement(new Input("Senha:", "Digite sua senha..."));
 
         $player->sendForm($form);

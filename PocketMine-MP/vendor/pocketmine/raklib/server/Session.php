@@ -135,7 +135,7 @@ class Session{
 
 		$this->channelIndex = array_fill(0, 32, 0);
 
-		$this->mtuSize = $mtuSize;
+		$this->mtuSize = min($mtuSize, 1000);
 	}
 
 	public function getAddress() : InternetAddress{

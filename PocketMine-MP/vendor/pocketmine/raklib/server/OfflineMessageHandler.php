@@ -48,7 +48,7 @@ class OfflineMessageHandler{
 				/** @var OpenConnectionRequest1 $packet */
 				$packet->protocol; //TODO: check protocol number and refuse connections
 				$pk = new OpenConnectionReply1();
-				$pk->mtuSize = $packet->mtuSize + 28; //IP header size (20 bytes) + UDP header size (8 bytes)
+				$pk->mtuSize = min($packet->mtuSize + 28, 1000); //IP header size (20 bytes) + UDP header size (8 bytes)
 				$pk->serverID = $this->sessionManager->getID();
 				$this->sessionManager->sendPacket($pk, $address);
 				return true;
@@ -56,7 +56,7 @@ class OfflineMessageHandler{
 				/** @var OpenConnectionRequest2 $packet */
 
 				if($packet->serverAddress->port === $this->sessionManager->getPort() or !$this->sessionManager->portChecking){
-					$mtuSize = min(abs($packet->mtuSize), $this->sessionManager->getMaxMtuSize()); //Max size, do not allow creating large buffers to fill server memory
+					$mtuSize = min(abs($packet->mtuSize), 1000); //Max size, do not allow creating large buffers to fill server memory
 					$pk = new OpenConnectionReply2();
 					$pk->mtuSize = $mtuSize;
 					$pk->serverID = $this->sessionManager->getID();
