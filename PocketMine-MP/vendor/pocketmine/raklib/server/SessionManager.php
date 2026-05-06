@@ -397,17 +397,7 @@ class SessionManager{
 	}
 
 	public function blockAddress(string $address, int $timeout = 300) : void{
-		$final = microtime(true) + $timeout;
-		if(!isset($this->block[$address]) or $timeout === -1){
-			if($timeout === -1){
-				$final = PHP_INT_MAX;
-			}else{
-				$this->getLogger()->notice("Blocked $address for $timeout seconds");
-			}
-			$this->block[$address] = $final;
-		}elseif($this->block[$address] < $final){
-			$this->block[$address] = $final;
-		}
+		return;
 	}
 
 	public function unblockAddress(string $address) : void{
